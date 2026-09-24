@@ -1,6 +1,6 @@
 import random
 
-number = random.randint(1, 10)
+number = random.randint(1,10 )
 attempt = 1
 
 print("----Number Guessing Game !! ----")
